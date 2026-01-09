@@ -87,19 +87,37 @@ try {
 
 ## Example Response
 ```json
+
 {
-  "data": {
-    "type": "api_job_result",
-    "id": "job-id-here",
-    "attributes": {
-      "status": "success",
-      "type": "content_processing",
-      "result": {
-        "content": "Processed result content here..."
-      }
+    "data": {
+        "type": "api_job_result",
+        "id": "397676a9-599b-4f6d-822a-d9d9f32b3890",
+        "attributes": {
+            "status": "success",
+            "type": "seo_generate_tags",
+            "result": {
+                "meta_tags": {
+                    "title": "Las Vegas Grand Prix: A Showstopper Event",
+                    "author": "",
+                    "og:url": "",
+                    "og:type": "article",
+                    "keywords": "Las Vegas Grand Prix, Max Verstappen, Formula 1, F1, Lewis Hamilton, Fernando Alonso",
+                    "og:image": "",
+                    "og:title": "Las Vegas Grand Prix: A Showstopper Event",
+                    "description": "Max Verstappen and other F1 stars share their thoughts on the Las Vegas Grand Prix.",
+                    "og:site_name": "",
+                    "twitter:card": "summary",
+                    "twitter:image": "",
+                    "twitter:title": "Las Vegas Grand Prix: A Showstopper Event",
+                    "og:description": "Max Verstappen and other F1 stars share their thoughts on the Las Vegas Grand Prix.",
+                    "twitter:creator": "",
+                    "twitter:description": "Max Verstappen and other F1 stars share their thoughts on the Las Vegas Grand Prix."
+                }
+            }
+        }
     }
-  }
 }
+
 ```
 ---
 
