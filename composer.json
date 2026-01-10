@@ -3,14 +3,14 @@
     "description": "Generate SEO and social media tags using AI - META tags for websites",
     "type": "library",
     "license": "MIT",
-    "keywords": {
-        "0": "sharpapi",
-        "1": "seo",
-        "2": "php",
-        "3": "ai",
-        "4": "api",
-        "6": "meta-tags"
-    },
+    "keywords": [
+         "sharpapi",
+         "seo",
+         "php",
+         "ai",
+         "api",
+         "meta-tags"
+    ],
     "homepage": "https://sharpapi.com/",
     "authors": [
         {
