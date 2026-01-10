@@ -16,7 +16,7 @@ Check the full documentation on the [Seo Tags Generator API for PHP API](https:/
 | Resource | Link |
 |----------|------|
 | **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
-| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsVY) |
+| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsaG) |
 | **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/seo/seo-social-media-tags-generator) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 
